@@ -1,1 +1,5 @@
-echo
+git pull
+echo 'content of file' > 0x01-git/up_to_date
+git add 0x01_git/up_to_date
+git commit -m "How to be up to date in git"
+git push
