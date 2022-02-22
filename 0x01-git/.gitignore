@@ -1,1 +1,4 @@
-loading..
+#start writing gitignore files
+#These are what I want git ignore them.
+hello.*
+foo/
