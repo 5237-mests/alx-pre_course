@@ -2,3 +2,4 @@
 #These are what I want git ignore them.
 hello.*
 foo/
+~
